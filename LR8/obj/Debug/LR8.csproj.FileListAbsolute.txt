@@ -1,0 +1,20 @@
+D:\Zhenka_P\универ\4 курс 2 семестр\ЗИ\LR8\LR8\bin\Debug\LR8.exe.config
+D:\Zhenka_P\универ\4 курс 2 семестр\ЗИ\LR8\LR8\bin\Debug\LR8.exe
+D:\Zhenka_P\универ\4 курс 2 семестр\ЗИ\LR8\LR8\bin\Debug\LR8.pdb
+D:\Zhenka_P\универ\4 курс 2 семестр\ЗИ\LR8\LR8\obj\Debug\LR8.csprojAssemblyReference.cache
+D:\Zhenka_P\универ\4 курс 2 семестр\ЗИ\LR8\LR8\obj\Debug\LR8.Form1.resources
+D:\Zhenka_P\универ\4 курс 2 семестр\ЗИ\LR8\LR8\obj\Debug\LR8.Properties.Resources.resources
+D:\Zhenka_P\универ\4 курс 2 семестр\ЗИ\LR8\LR8\obj\Debug\LR8.csproj.GenerateResource.cache
+D:\Zhenka_P\универ\4 курс 2 семестр\ЗИ\LR8\LR8\obj\Debug\LR8.csproj.CoreCompileInputs.cache
+D:\Zhenka_P\универ\4 курс 2 семестр\ЗИ\LR8\LR8\obj\Debug\LR8.exe
+D:\Zhenka_P\универ\4 курс 2 семестр\ЗИ\LR8\LR8\obj\Debug\LR8.pdb
+C:\Users\Вика\Desktop\STUDY\ЗИ\LR8\LR8\bin\Debug\LR8.exe.config
+C:\Users\Вика\Desktop\STUDY\ЗИ\LR8\LR8\bin\Debug\LR8.exe
+C:\Users\Вика\Desktop\STUDY\ЗИ\LR8\LR8\bin\Debug\LR8.pdb
+C:\Users\Вика\Desktop\STUDY\ЗИ\LR8\LR8\obj\Debug\LR8.csprojAssemblyReference.cache
+C:\Users\Вика\Desktop\STUDY\ЗИ\LR8\LR8\obj\Debug\LR8.Form1.resources
+C:\Users\Вика\Desktop\STUDY\ЗИ\LR8\LR8\obj\Debug\LR8.Properties.Resources.resources
+C:\Users\Вика\Desktop\STUDY\ЗИ\LR8\LR8\obj\Debug\LR8.csproj.GenerateResource.cache
+C:\Users\Вика\Desktop\STUDY\ЗИ\LR8\LR8\obj\Debug\LR8.csproj.CoreCompileInputs.cache
+C:\Users\Вика\Desktop\STUDY\ЗИ\LR8\LR8\obj\Debug\LR8.exe
+C:\Users\Вика\Desktop\STUDY\ЗИ\LR8\LR8\obj\Debug\LR8.pdb
